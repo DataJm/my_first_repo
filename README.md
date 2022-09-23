@@ -1,2 +1,4 @@
-# my_first_repo
-This is a demo for our class
+# This is my read me file
+- I should be doing my homework with this thing
+
+Cool !
